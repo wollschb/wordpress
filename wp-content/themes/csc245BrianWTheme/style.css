@@ -512,7 +512,7 @@ a {
 }
 
 a:visited {
-	color: yellow;  /* was purple */
+	color: red;  /* was purple */
 }
 
 a:hover,
